@@ -1,0 +1,1 @@
+ALTER TABLE parcela ADD status VARCHAR(20) NOT NULL;

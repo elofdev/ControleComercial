@@ -1,0 +1,1 @@
+ALTER TABLE item ADD pedido_id BIGINT NOT NULL;

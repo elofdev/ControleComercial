@@ -1,0 +1,1 @@
+ALTER TABLE pedido ADD status VARCHAR(20) NOT NULL;
